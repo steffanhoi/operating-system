@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu
 
 # Set shell
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
